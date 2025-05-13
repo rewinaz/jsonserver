@@ -10,66 +10,42 @@
     {
       "id": "67ea4e3b482dbe3e0497ae10",
       "branchName": "That Funky Swap Station, Read then delete",
-      "location": {
-        "lat": 9.0326568,
-        "lng": 38.7525707
-      }
+      "location": [38.7525707, 9.0326568]
     },
     {
       "id": "67eb88485a72dddf71f7bd39",
       "branchName": "Piassa Swap Station",
-      "location": {
-        "lat": 9.0326568,
-        "lng": 38.7525707
-      }
+      "location": [38.7525707, 9.0326568]
     },
     {
       "id": "67eb87c99f0ee303690621cd",
       "branchName": "Kera Swap Station",
-      "location": {
-        "lat": 8.9947488,
-        "lng": 38.7525257
-      }
+      "location": [38.7525257, 8.9947488]
     },
     {
       "id": "67eb99e25a72dddf71f807bd",
       "branchName": "Goro Swap Station",
-      "location": {
-        "lat": 9.0162718,
-        "lng": 38.8104771
-      }
+      "location": [38.8104771, 9.0162718]
     },
     {
       "id": "67ed21b55a72dddf71f8d1bb",
       "branchName": "Gerji Swap Station Demo",
-      "location": {
-        "lat": 9.0162718,
-        "lng": 38.8104771
-      }
+      "location": [38.8104771, 9.0162718]
     },
     {
       "id": "67ef8b373247cbeaca7e42ac",
       "branchName": "Premium Swap Station",
-      "location": {
-        "lat": 9.0013808,
-        "lng": 38.7815004
-      }
+      "location": [38.7815004, 9.0013808]
     },
     {
       "id": "67ea4b7d482dbe3e0497a832",
       "branchName": "Jemo Swap Station",
-      "location": {
-        "lat": 8.9614461,
-        "lng": 38.714808
-      }
+      "location": [38.714808, 8.9614461]
     },
     {
       "id": "67ea5cdf9f0ee3036905a094",
       "branchName": "Bola Swapping Station",
-      "location": {
-        "lat": 8.9643517,
-        "lng": 38.7326431
-      }
+      "location": [38.7326431, 8.9643517]
     }
   ]
 }
