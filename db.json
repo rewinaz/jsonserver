@@ -1,9 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
@@ -11,7 +6,7 @@
   "profile": {
     "name": "typicode"
   },
-  "stations": [
+  "posts": [
     {
       "id": "67ea4e3b482dbe3e0497ae10",
       "branchName": "That Funky Swap Station, Read then delete",
